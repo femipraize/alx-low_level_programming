@@ -1,7 +1,6 @@
 #include <unistd.h>
 
 /**
- *
  * main - prints a text in C
  *
  * Retrun: Always 1 (Successful)
