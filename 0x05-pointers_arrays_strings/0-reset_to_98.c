@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
+
 /**
- * reset_to_98 - takes in the argument or parameter and updates the value
- * @n: the pointer to the address
- * return: the return value is 0
+ * reset_to_98 - update the valueof n to 98
+ * @: integer pinter to a variable to e updated
+ * Return: nothing
  */
 
 void reset_to_98(int *n)
